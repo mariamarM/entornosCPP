@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\maria daw\\entornos\\raiz cuadrada\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0BDD78A-C781-46BC-9467-56B6C1C3727A}|raiz cuadrada.vcxproj|D:\\maria daw\\entornos\\raiz cuadrada\\raiz cuadrada.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0BDD78A-C781-46BC-9467-56B6C1C3727A}|raiz cuadrada.vcxproj|solutionrelative:raiz cuadrada.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "raiz cuadrada.cpp",
+              "DocumentMoniker": "D:\\maria daw\\entornos\\raiz cuadrada\\raiz cuadrada.cpp",
+              "RelativeDocumentMoniker": "raiz cuadrada.cpp",
+              "ToolTip": "D:\\maria daw\\entornos\\raiz cuadrada\\raiz cuadrada.cpp",
+              "RelativeToolTip": "raiz cuadrada.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T09:29:09.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
